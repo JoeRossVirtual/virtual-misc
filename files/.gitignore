@@ -1,0 +1,9 @@
+/*
+!/wp-content
+/wp-content/*
+!/wp-content/themes
+/wp-content/themes/*
+!/wp-content/themes/Avada-Child-Theme
+/wp-content/themes/Avada-Child-Theme/screenshot.png
+
+!/.gitignore
